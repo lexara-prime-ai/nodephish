@@ -10,6 +10,6 @@
 ## Custom sides can be added via the views directory
 
 ### Preview Sample
-[preview image](/dummy%20site%20preview.png)
+![preview image](https://github.com/projectfinalaudio/nodephish/blob/master/dummy%20site%20preview.png?raw=true)
 
 
