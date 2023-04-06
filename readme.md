@@ -3,8 +3,8 @@
  ## Requirements
 * Node
 * Dotenv
-* Uuid
-* Date-fns
+* Uuid(optional)
+* Date-fns(optional)
 * Ngrok(**or similar software**)
   
 ## Custom sides can be added via the views directory
